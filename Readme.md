@@ -1,1 +1,1 @@
-Este projeto pertence a um tutorial de gitgit
+Este projeto pertence a um tutorial de git e githurb
